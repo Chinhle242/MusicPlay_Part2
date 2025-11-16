@@ -67,7 +67,7 @@ let allMusic = [
     img: "Chi-Muon-Ben-Em-That-Gan",
     src: "Chi-Muon-Ben-Em-That-Gan"
   },{
-    name: "{
+   
     name: "Em - Binz",
     artist: "BINZ",
     img: "Em - Binz",
@@ -116,3 +116,4 @@ let allMusic = [
   },
 
 ];
+
