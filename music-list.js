@@ -51,7 +51,7 @@ let allMusic = [
     name: "Khổ Quá Thì Về Mẹ Nuôi",
     artist: "VETHOI",
     img: "me",
-    src: "mey"
+    src: "me"
   },
   {
     name: "Hồng Nhan",
@@ -114,4 +114,5 @@ let allMusic = [
     src: "Nu-Hon-Bisou"
   }
 ];
+
 
