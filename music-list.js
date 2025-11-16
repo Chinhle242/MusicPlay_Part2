@@ -48,10 +48,10 @@ let allMusic = [
     src: "See-Tinh"
   },
   {
-    name: "Chỉ Muốn Bên Em Lúc Này",
-    artist: "Huy Vạc",
-    img: "Chi-Muon-Ben-Em-Luc-Nay",
-    src: "Chi-Muon-Ben-Em-Luc-Nay"
+    name: "Khổ Quá Thì Về Mẹ Nuôi",
+    artist: "VETHOI",
+    img: "me",
+    src: "mey"
   },
   {
     name: "Hồng Nhan",
@@ -114,3 +114,4 @@ let allMusic = [
     src: "Nu-Hon-Bisou"
   }
 ];
+
